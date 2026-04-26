@@ -1,0 +1,13 @@
+/* Add this to your global CSS file */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden; /* Prevents side-scrolling */
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
